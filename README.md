@@ -6,7 +6,7 @@ rdkit, tensorflow
 # Training MDVAE
 
 To train and generate molecules:
-python MDVAE.py --dataset qm9|zinc
+<pre>python MDVAE.py --dataset qm9|zinc</pre>
 
 # Evaluating MDVAE
 
