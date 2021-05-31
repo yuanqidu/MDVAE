@@ -1,7 +1,11 @@
 # MDVAE
 
 # Dependencies
-rdkit, tensorflow
+rdkit
+tensorflow
+typing
+docopt
+planarity
 
 # Training MDVAE
 
@@ -11,4 +15,4 @@ To train and generate molecules:
 # Evaluating MDVAE
 
 To evaluate the generated molecules:
-python evaluate.py --dataset qm9|zinc
+<pre>python evaluate.py --dataset qm9|zinc</pre>
