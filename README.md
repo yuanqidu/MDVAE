@@ -1,14 +1,10 @@
 # MDVAE
 
 # Dependencies
-rdkit
-
-tensorflow
-
-typing
-
-docopt
-
+rdkit,
+tensorflow,
+typing,
+docopt,
 planarity
 
 # Training MDVAE
