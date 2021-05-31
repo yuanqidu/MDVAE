@@ -2,9 +2,13 @@
 
 # Dependencies
 rdkit
+
 tensorflow
+
 typing
+
 docopt
+
 planarity
 
 # Training MDVAE
